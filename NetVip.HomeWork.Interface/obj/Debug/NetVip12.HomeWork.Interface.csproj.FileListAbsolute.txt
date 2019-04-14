@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Interface.dll
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Interface.pdb
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.dll
+C:\Users\Administrator\source\repos\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.pdb
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Interface.dll
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Interface.pdb
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Common.dll
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\bin\Debug\NetVip12.HomeWork.Common.pdb
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.csprojAssemblyReference.cache
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.csproj.CoreCompileInputs.cache
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.csproj.CopyComplete
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.dll
+D:\Project\NetVipHomeWork3\NetVip.HomeWork.Interface\obj\Debug\NetVip12.HomeWork.Interface.pdb
