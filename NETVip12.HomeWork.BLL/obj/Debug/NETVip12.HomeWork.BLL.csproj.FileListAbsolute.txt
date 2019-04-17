@@ -11,3 +11,16 @@ D:\Project\NetVipHomeWork3\NETVip12.HomeWork.BLL\obj\Debug\NETVip12.HomeWork.BLL
 D:\Project\NetVipHomeWork3\NETVip12.HomeWork.BLL\obj\Debug\NETVip12.HomeWork.BLL.csproj.CopyComplete
 D:\Project\NetVipHomeWork3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.dll
 D:\Project\NetVipHomeWork3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.pdb
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.BLL.dll
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.BLL.pdb
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Common.dll
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Interface.dll
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Model.dll
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Interface.pdb
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Common.pdb
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\bin\Debug\NetVip12.HomeWork.Model.pdb
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.csprojAssemblyReference.cache
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.csproj.CoreCompileInputs.cache
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.csproj.CopyComplete
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.dll
+E:\githubBase\TestDB3\NETVip12.HomeWork.BLL\obj\Debug\NetVip12.HomeWork.BLL.pdb

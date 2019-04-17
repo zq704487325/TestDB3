@@ -10,3 +10,9 @@ D:\Project\NetVipHomeWork3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.
 D:\Project\NetVipHomeWork3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.csproj.CoreCompileInputs.cache
 D:\Project\NetVipHomeWork3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.dll
 D:\Project\NetVipHomeWork3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.pdb
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\bin\Debug\NetVip12.HomeWork.Common.dll
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\bin\Debug\NetVip12.HomeWork.Common.pdb
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.csprojAssemblyReference.cache
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.csproj.CoreCompileInputs.cache
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.dll
+E:\githubBase\TestDB3\NetVip12.HomeWork.Common\obj\Debug\NetVip12.HomeWork.Common.pdb
